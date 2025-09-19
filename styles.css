@@ -495,6 +495,7 @@ height:auto;
   position: relative;
   overflow: hidden;
   height: 300px; /* adjust height */
+  padding:10px;
 }
 
 .review-card {
