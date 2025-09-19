@@ -494,7 +494,7 @@ height:auto;
 .reviews-carousel {
   position: relative;
   overflow: hidden;
-  height: 220px; /* adjust height */
+  height: 300px; /* adjust height */
 }
 
 .review-card {
